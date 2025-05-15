@@ -1,4 +1,4 @@
-<h2 align="center">Ola 👋 Sou Gabriel</h2>
+<h2 align="center">Ola 👋 Me chamo Gabriel</h2>
 
 ###
 
